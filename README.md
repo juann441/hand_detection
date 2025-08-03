@@ -65,4 +65,47 @@ The pipeline focuses on precise **geometric segmentation** of the hand and ident
 ---
 
 ## 📂 Repository Structure
+```
+automatic_measurement
+│   README.md
+│   main.py
+│   
+│
+├───utils
+│   │   circle.py
+│   │   bounding_boxes.py
+│   │   maths_tools.py
+│   │   miscellanous.py
+│   │   processing_tools.py
+│   │   palm.py
+│   │   jeu.py
+│   │   circle.py
+│   │   bounding_boxes.py
+│   │   launch_hsv_adjuster.py
+│   │   dictionnary.py
+
+```
+
+---
+
+## 📸 Sample Screenshots
+
+Here is an example of the segmentation and gesture detection result:
+
+![Sample Output](photo_hand.png)
+
+---
+
+## 📚 Bibliography
+
+- Zhi-hua Chen, *Real-Time Hand Gesture Recognition Using Finger Segmentation*, 2021  
+- Da Vinci, *Study of the Human Hand*  
+- OpenCV documentation
+
+---
+
+## 🧠 Authors
+
+- **Guillaume Brussieux**  
+- **Juan Reyes-Ortiz**
 
