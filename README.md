@@ -89,8 +89,6 @@ automatic_measurement
 
 ---
 
----
-
 ## 📸 Captures d’écran
 
 Exemple de résultat de segmentation et détection de gestes :
