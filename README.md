@@ -1,6 +1,6 @@
 # 🖐️ Hand Segmentation and Gesture Recognition
 
-> Final-year engineering project | CPE Lyon – Major Project 2024–2025  
+> Final-year engineering project (done in 1 month) | CPE Lyon – Major Project 2024–2025  
 > Authors: Guillaume Brussieux, Juan Reyes-Ortiz  
 > Supervisor: Marion Foare
 
